@@ -1,0 +1,12 @@
+{
+  "name": "insomnia-plugin-sign",
+  "version": "1.0.0",
+  "description": "Плагин для подписи запросов",
+  "main": "plugin.js",
+  "author": "Sergei Gulin",
+  "license": "MIT",
+  "insomnia": {
+    "name": "sign",
+    "description": "Плагин для подписи запросов"
+  }
+}
